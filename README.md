@@ -241,7 +241,7 @@ HR-Workforce-Analytics/
 │
 ├── 📄 README.md
 ├── 📄 HR_Dashboard.pdf                      # Full report export
-├── 📊 HR_Workforce_Analytics.pbix           # Power BI report with data model and RLS
+├── 📊 HR Dashboard.pbix           # Power BI report with data model and RLS
 ├── 📂 data/
 │   └── employees.csv                        # Source data (anonymized)
 └── 📂 images/
@@ -252,7 +252,7 @@ HR-Workforce-Analytics/
     └── page4_attendance_workload.png
 ```
 
-> Adjust file and folder names to match your actual project files.
+
 
 ---
 
@@ -268,7 +268,6 @@ HR-Workforce-Analytics/
 5. Use the slicers on the Executive Overview page and click any visual to cross-filter the report.
 6. To see RLS in action, go to *Modeling → View as* and pick the role.
 
-> 🔒 **Privacy note:** employee names (such as the Top Employees table) and the emails in the Security table should be removed or anonymized before publishing publicly.
 
 ---
 
@@ -290,4 +289,3 @@ HR-Workforce-Analytics/
 
 ---
 
-⭐ If you found this project useful, please give it a star!
