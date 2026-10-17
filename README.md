@@ -260,7 +260,7 @@ HR-Workforce-Analytics/
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/Aminsfwt/<your-repo-name>.git
+   git clone https://github.com/Aminsfwt/HR-Workforce-Analytics.git
    ```
 2. Install **Power BI Desktop** (free, Windows).
 3. Open the `.pbix` file.
@@ -286,7 +286,7 @@ HR-Workforce-Analytics/
 **Amin Safout Ali**, BI Data Analyst
 - LinkedIn: [linkedin.com/in/aminsafoutali](https://linkedin.com/in/aminsafoutali)
 - GitHub: [github.com/Aminsfwt](https://github.com/Aminsfwt)
-- Email: aminsafoutali@gmail.com
+- Power BI Service: [HR Dashboard](https://app.powerbi.com/reportEmbed?reportId=72a6e13d-969b-4131-9690-c2aea0bb2219&autoAuth=true&ctid=3789c9f7-c841-4c22-af5a-491da9991d86)
 
 ---
 
